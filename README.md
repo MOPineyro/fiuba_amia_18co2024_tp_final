@@ -1,5 +1,9 @@
 # Trabajo Práctico Final: Linear/Quadratic Discriminant Analysis (LDA/QDA)
 
+## Presentación
+
+[Presentación](https://drive.google.com/file/d/1whMgscyJHvHYzqXhEuCo1GH4Xc0Mm76u/view?usp=drive_link)
+
 ## Integrantes del Grupo
 
 - Lucas Mendoza - lucasfmendoza.99@gmail.com - a1710
